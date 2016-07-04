@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"code.google.com/p/whispering-gophers/util"
+	"github.com/sbinet/whispering-gophers/util"
 )
 
 func init() {
