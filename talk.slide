@@ -398,7 +398,7 @@ To broadcast a `Message` to all peers, ask the peer registry for its list of `ch
 
 * Part 8: connect to multiple peers
 
-- Initialze a `Peers` value and store it in a global variable.
+- Initialize a `Peers` value and store it in a global variable.
 - As we see new peer addresses, open connections to those peers.
 - For each line read from standard input, broadcast that message to all connected peers.
 
