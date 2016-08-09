@@ -414,7 +414,7 @@ If a peer connection stalls or dies, we don't want to hold up the rest of our pr
 
 * Part 8: connect to multiple peers (recap)
 
-- Initialze a `Peers` value and store it in a global variable.
+- Initialize a `Peers` value and store it in a global variable.
 - As we see new peer addresses, open connections to those peers.
 - For each line read from standard input, broadcast that message to all connected peers.
 
